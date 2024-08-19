@@ -1,0 +1,3 @@
+.threadsCard:not(:first-of-type) {
+  border-top: none;
+}
